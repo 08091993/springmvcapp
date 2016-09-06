@@ -1,2 +1,0 @@
-# springmvcapp
-MVC application simple
